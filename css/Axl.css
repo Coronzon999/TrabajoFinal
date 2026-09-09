@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nombres{
+    font-weight: 700;
+}
+
+.precios{
+    margin-top: -15px;
+    font-weight: 700;
+}
+
+.enlace{
+    padding: 6px;
+    width: 100%;
+    background-color: black;
+    color: #fff;    
+    border-radius: 20px;
+}
+
+.Des{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Pro{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
