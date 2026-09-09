@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    font-family: 'Poppins';
+    
+}
+
+.nosotros{
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.titulo{
+    font-size: 2em;
+    
+}
+
+.parrafo{
+    font-size: 1em;
+    width: 600px;
+    justify-content: center;
+}
+
+.IS{
+    width: 400px;
+    height: 300px;
+    border-radius: 10em;
+    margin-left: 8em;
+    margin-top: 5%;
+}

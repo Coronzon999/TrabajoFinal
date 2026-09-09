@@ -19,14 +19,14 @@
 
 .CT{
     font-size: 3em;
-    margin-left: 130px;
-}
+    margin-left: 130px; 
+}   
 
 .enlace{
     padding: 6px;
     width: 100%;
     background-color: black;
-    color: #fff;
+    color: #fff;    
     border-radius: 10px;
 }
 
